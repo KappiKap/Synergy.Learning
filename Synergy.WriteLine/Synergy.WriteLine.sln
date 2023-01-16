@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synergy.WriteLine", "Synergy.WriteLine\Synergy.WriteLine.csproj", "{A95C77FC-6C4E-470B-9313-D2D2CF64D80D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A95C77FC-6C4E-470B-9313-D2D2CF64D80D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95C77FC-6C4E-470B-9313-D2D2CF64D80D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95C77FC-6C4E-470B-9313-D2D2CF64D80D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95C77FC-6C4E-470B-9313-D2D2CF64D80D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0FC16D5-6CC8-4E18-B2DB-EDA0756D9E84}
+	EndGlobalSection
+EndGlobal
